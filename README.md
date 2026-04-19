@@ -5,6 +5,8 @@ My academic work includes clustering analysis, data visualization, and analysis 
 
 ## Skills
 - Python (pandas, NumPy, scikit-learn, matplotlib)
+- RStudio
+- SQL
 - Data visualization
 - Machine learning fundamentals
 - Exploratory data analysis
