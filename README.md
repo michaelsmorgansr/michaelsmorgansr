@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I’m Michael 👋
 
-<!--
-**michaelsmorgansr/michaelsmorgansr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a graduate student with a focus on data analysis, machine learning, and data-driven decision making.  
+My academic work includes clustering analysis, data visualization, and analysis of real-world datasets.
 
-Here are some ideas to get you started:
+## Skills
+- Python (pandas, NumPy, scikit-learn, matplotlib)
+- Data visualization
+- Machine learning fundamentals
+- Exploratory data analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Interests
+- Unsupervised learning
+- Customer segmentation
+- Data visualization for decision support
