@@ -11,6 +11,14 @@ My academic work includes clustering analysis, data visualization, and analysis 
 - Machine learning fundamentals
 - Exploratory data analysis
 
+## Tools and Technologies
+
+Here are some tools and technologies that I use:
+
+Languages: Python, SQL, R
+Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn
+Tools: Jupyter, PyCharm, RStudio, GitHub, Git
+
 ## Current Interests
 - Unsupervised learning
 - Customer segmentation
