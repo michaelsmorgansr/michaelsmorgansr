@@ -15,9 +15,9 @@ My academic work includes clustering analysis, data visualization, and analysis 
 
 Here are some tools and technologies that I use:
 
-Languages: Python, SQL, R
-Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn
-Tools: Jupyter, PyCharm, RStudio, GitHub, Git
+- Languages: Python, SQL, R
+- Libraries: pandas, NumPy, scikit-learn, matplotlib, seaborn
+- Tools: Jupyter, PyCharm, RStudio, GitHub, Git
 
 ## Current Interests
 - Unsupervised learning
